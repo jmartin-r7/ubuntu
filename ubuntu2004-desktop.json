@@ -8,5 +8,6 @@
   "iso_name": "ubuntu-20.04.1-live-server-amd64.iso",
   "iso_url": "http://releases.ubuntu.com/20.04/ubuntu-20.04.1-live-server-amd64.iso",
   "memory": "1024",
+  "boot_wait": "5s",
   "vagrantfile_template": "tpl/vagrantfile-ubuntu2004-desktop.tpl"
 }

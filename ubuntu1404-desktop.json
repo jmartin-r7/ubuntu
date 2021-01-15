@@ -1,5 +1,5 @@
 {
-  "_comment": "Build with `packer build -var-file=ubuntu1404-desktop.json ubuntu-legacy.json`",
+  "_comment": "Build with `packer build -var-file=ubuntu1404-desktop.json ubuntu.json`",
   "vm_name": "ubuntu1404-desktop",
   "desktop": "true",
   "cpus": "1",

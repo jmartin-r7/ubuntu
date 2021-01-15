@@ -1,5 +1,5 @@
 {
-  "_comment": "Build with `packer build -var-file=ubuntu1604-desktop.json ubuntu-legacy.json`",
+  "_comment": "Build with `packer build -var-file=ubuntu1604-desktop.json ubuntu.json`",
   "vm_name": "ubuntu1604-desktop",
   "desktop": "true",
   "locale": "en_US.UTF-8",

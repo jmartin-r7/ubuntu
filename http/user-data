@@ -5,12 +5,6 @@ autoinstall:
     hostname: vagrant
     password: '$6$iCc.WH.j$EuCSsvXtnIX2UnrunKZHApB3uvKuxplkAL1UBtBkab047y/jyn9WnpVAkc57jtqSv.hsLGje.milvneydC.Cw/'
     username: vagrant
-  network:
-    version: 2
-    ethernets:
-      enp0s3:
-        dhcp4: true
-        dhcp-identifier: mac
   ssh:
     install-server: true
   packages:
